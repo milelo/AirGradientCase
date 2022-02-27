@@ -1,2 +1,4 @@
-# AirGradientDiy-laser-case
-The Freecad design files for a laser cut case for the AirGradient-diy air quality monitor
+# AirGradient-diy laser cut case
+A Freecad design for a laser cut case for the [AirGradient-diy](https://www.airgradient.com/diy/) air quality monitor.
+
+![assembly](/images/AirGradient-laser-case.jpg "Assembled case")
