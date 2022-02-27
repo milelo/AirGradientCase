@@ -1,7 +1,9 @@
 # AirGradient-diy laser cut case
-A Freecad design for a laser cut case for the [AirGradient-diy](https://www.airgradient.com/diy/) air quality monitor.
+A Freecad, laser-cut case design for the [AirGradient-diy](https://www.airgradient.com/diy/) air quality monitor.
 
-Note: As there is no thermal isolation from the heat given out by the particulate sensor this is not recommended for use with an internal temperature and humidity sensor.
+Notes:
+1. As there is no thermal isolation from the heat given out by the particulate sensor this is not recommended for use with an internal temperature and humidity sensor.
+1. The positioning of the USB port cut-out assumes the Wemos D1 Mini is soldered directly to the PCB with its USB connector in contact with the PCB.
 
 ## The assembled case
 ![assembly](/images/AirGradient-laser-case.jpg "Assembled case")
